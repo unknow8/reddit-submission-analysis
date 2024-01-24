@@ -1,0 +1,186 @@
+Contents of output/subreddits_comments_per_hour\scala_comments_per_hour.png:
+Total Comments per Hour and Avg Comments - scala
+
+Day: Monday
+Hour: 0 - Total Comments: 36 - Avg Comments per Submission: 3.00
+Hour: 1 - Total Comments: 53 - Avg Comments per Submission: 8.83
+Hour: 2 - Total Comments: 34 - Avg Comments per Submission: 3.78
+Hour: 3 - Total Comments: 138 - Avg Comments per Submission: 10.62
+Hour: 4 - Total Comments: 27 - Avg Comments per Submission: 1.29
+Hour: 5 - Total Comments: 74 - Avg Comments per Submission: 4.62
+Hour: 6 - Total Comments: 16 - Avg Comments per Submission: 2.67
+Hour: 7 - Total Comments: 66 - Avg Comments per Submission: 4.40
+Hour: 8 - Total Comments: 41 - Avg Comments per Submission: 20.50
+Hour: 9 - Total Comments: 104 - Avg Comments per Submission: 8.00
+Hour: 10 - Total Comments: 73 - Avg Comments per Submission: 4.56
+Hour: 11 - Total Comments: 130 - Avg Comments per Submission: 9.29
+Hour: 12 - Total Comments: 1426 - Avg Comments per Submission: 26.91
+Hour: 13 - Total Comments: 11 - Avg Comments per Submission: 2.20
+Hour: 14 - Total Comments: 94 - Avg Comments per Submission: 4.70
+Hour: 15 - Total Comments: 63 - Avg Comments per Submission: 5.73
+Hour: 16 - Total Comments: 80 - Avg Comments per Submission: 4.00
+Hour: 17 - Total Comments: 79 - Avg Comments per Submission: 6.58
+Hour: 18 - Total Comments: 31 - Avg Comments per Submission: 3.88
+Hour: 19 - Total Comments: 72 - Avg Comments per Submission: 6.55
+Hour: 20 - Total Comments: 85 - Avg Comments per Submission: 7.08
+Hour: 21 - Total Comments: 60 - Avg Comments per Submission: 8.57
+Hour: 22 - Total Comments: 97 - Avg Comments per Submission: 10.78
+Hour: 23 - Total Comments: 17 - Avg Comments per Submission: 2.43
+
+Day: Tuesday
+Hour: 0 - Total Comments: 68 - Avg Comments per Submission: 5.67
+Hour: 1 - Total Comments: 42 - Avg Comments per Submission: 3.82
+Hour: 2 - Total Comments: 51 - Avg Comments per Submission: 10.20
+Hour: 3 - Total Comments: 32 - Avg Comments per Submission: 5.33
+Hour: 4 - Total Comments: 35 - Avg Comments per Submission: 5.00
+Hour: 5 - Total Comments: 94 - Avg Comments per Submission: 9.40
+Hour: 6 - Total Comments: 35 - Avg Comments per Submission: 3.50
+Hour: 7 - Total Comments: 34 - Avg Comments per Submission: 3.78
+Hour: 8 - Total Comments: 37 - Avg Comments per Submission: 4.11
+Hour: 9 - Total Comments: 95 - Avg Comments per Submission: 10.56
+Hour: 10 - Total Comments: 14 - Avg Comments per Submission: 1.08
+Hour: 11 - Total Comments: 84 - Avg Comments per Submission: 12.00
+Hour: 12 - Total Comments: 74 - Avg Comments per Submission: 7.40
+Hour: 13 - Total Comments: 145 - Avg Comments per Submission: 11.15
+Hour: 14 - Total Comments: 53 - Avg Comments per Submission: 2.94
+Hour: 15 - Total Comments: 163 - Avg Comments per Submission: 8.15
+Hour: 16 - Total Comments: 85 - Avg Comments per Submission: 5.31
+Hour: 17 - Total Comments: 136 - Avg Comments per Submission: 8.50
+Hour: 18 - Total Comments: 91 - Avg Comments per Submission: 9.10
+Hour: 19 - Total Comments: 114 - Avg Comments per Submission: 8.14
+Hour: 20 - Total Comments: 88 - Avg Comments per Submission: 4.89
+Hour: 21 - Total Comments: 76 - Avg Comments per Submission: 6.33
+Hour: 22 - Total Comments: 63 - Avg Comments per Submission: 6.30
+Hour: 23 - Total Comments: 190 - Avg Comments per Submission: 17.27
+
+Day: Wednesday
+Hour: 0 - Total Comments: 7 - Avg Comments per Submission: 1.40
+Hour: 1 - Total Comments: 14 - Avg Comments per Submission: 7.00
+Hour: 2 - Total Comments: 73 - Avg Comments per Submission: 18.25
+Hour: 3 - Total Comments: 68 - Avg Comments per Submission: 8.50
+Hour: 4 - Total Comments: 2 - Avg Comments per Submission: 2.00
+Hour: 5 - Total Comments: 145 - Avg Comments per Submission: 20.71
+Hour: 6 - Total Comments: 76 - Avg Comments per Submission: 6.33
+Hour: 7 - Total Comments: 34 - Avg Comments per Submission: 4.25
+Hour: 8 - Total Comments: 52 - Avg Comments per Submission: 4.00
+Hour: 9 - Total Comments: 184 - Avg Comments per Submission: 15.33
+Hour: 10 - Total Comments: 54 - Avg Comments per Submission: 4.91
+Hour: 11 - Total Comments: 44 - Avg Comments per Submission: 7.33
+Hour: 12 - Total Comments: 42 - Avg Comments per Submission: 4.67
+Hour: 13 - Total Comments: 56 - Avg Comments per Submission: 4.67
+Hour: 14 - Total Comments: 78 - Avg Comments per Submission: 5.57
+Hour: 15 - Total Comments: 49 - Avg Comments per Submission: 4.08
+Hour: 16 - Total Comments: 70 - Avg Comments per Submission: 7.00
+Hour: 17 - Total Comments: 193 - Avg Comments per Submission: 12.87
+Hour: 18 - Total Comments: 96 - Avg Comments per Submission: 7.38
+Hour: 19 - Total Comments: 141 - Avg Comments per Submission: 10.07
+Hour: 20 - Total Comments: 122 - Avg Comments per Submission: 8.71
+Hour: 21 - Total Comments: 80 - Avg Comments per Submission: 8.00
+Hour: 22 - Total Comments: 155 - Avg Comments per Submission: 17.22
+Hour: 23 - Total Comments: 64 - Avg Comments per Submission: 5.33
+
+Day: Thursday
+Hour: 0 - Total Comments: 81 - Avg Comments per Submission: 8.10
+Hour: 1 - Total Comments: 14 - Avg Comments per Submission: 4.67
+Hour: 2 - Total Comments: 113 - Avg Comments per Submission: 14.12
+Hour: 3 - Total Comments: 7 - Avg Comments per Submission: 3.50
+Hour: 4 - Total Comments: 24 - Avg Comments per Submission: 6.00
+Hour: 5 - Total Comments: 14 - Avg Comments per Submission: 2.33
+Hour: 6 - Total Comments: 5 - Avg Comments per Submission: 1.67
+Hour: 7 - Total Comments: 60 - Avg Comments per Submission: 10.00
+Hour: 8 - Total Comments: 35 - Avg Comments per Submission: 7.00
+Hour: 9 - Total Comments: 5 - Avg Comments per Submission: 0.56
+Hour: 10 - Total Comments: 74 - Avg Comments per Submission: 7.40
+Hour: 11 - Total Comments: 191 - Avg Comments per Submission: 23.88
+Hour: 12 - Total Comments: 79 - Avg Comments per Submission: 7.90
+Hour: 13 - Total Comments: 150 - Avg Comments per Submission: 8.33
+Hour: 14 - Total Comments: 212 - Avg Comments per Submission: 9.22
+Hour: 15 - Total Comments: 139 - Avg Comments per Submission: 11.58
+Hour: 16 - Total Comments: 81 - Avg Comments per Submission: 8.10
+Hour: 17 - Total Comments: 137 - Avg Comments per Submission: 10.54
+Hour: 18 - Total Comments: 121 - Avg Comments per Submission: 6.37
+Hour: 19 - Total Comments: 38 - Avg Comments per Submission: 3.17
+Hour: 20 - Total Comments: 55 - Avg Comments per Submission: 6.88
+Hour: 21 - Total Comments: 30 - Avg Comments per Submission: 3.75
+Hour: 22 - Total Comments: 38 - Avg Comments per Submission: 4.22
+Hour: 23 - Total Comments: 43 - Avg Comments per Submission: 5.38
+
+Day: Friday
+Hour: 0 - Total Comments: 59 - Avg Comments per Submission: 6.56
+Hour: 1 - Total Comments: 55 - Avg Comments per Submission: 13.75
+Hour: 2 - Total Comments: 48 - Avg Comments per Submission: 5.33
+Hour: 3 - Total Comments: 60 - Avg Comments per Submission: 6.67
+Hour: 4 - Total Comments: 15 - Avg Comments per Submission: 3.75
+Hour: 5 - Total Comments: 184 - Avg Comments per Submission: 36.80
+Hour: 6 - Total Comments: 50 - Avg Comments per Submission: 10.00
+Hour: 7 - Total Comments: 64 - Avg Comments per Submission: 12.80
+Hour: 8 - Total Comments: 78 - Avg Comments per Submission: 15.60
+Hour: 9 - Total Comments: 81 - Avg Comments per Submission: 6.75
+Hour: 10 - Total Comments: 74 - Avg Comments per Submission: 7.40
+Hour: 11 - Total Comments: 67 - Avg Comments per Submission: 9.57
+Hour: 12 - Total Comments: 71 - Avg Comments per Submission: 14.20
+Hour: 13 - Total Comments: 91 - Avg Comments per Submission: 7.58
+Hour: 14 - Total Comments: 100 - Avg Comments per Submission: 7.14
+Hour: 15 - Total Comments: 92 - Avg Comments per Submission: 9.20
+Hour: 16 - Total Comments: 130 - Avg Comments per Submission: 10.00
+Hour: 17 - Total Comments: 30 - Avg Comments per Submission: 3.75
+Hour: 18 - Total Comments: 69 - Avg Comments per Submission: 6.90
+Hour: 19 - Total Comments: 20 - Avg Comments per Submission: 3.33
+Hour: 20 - Total Comments: 143 - Avg Comments per Submission: 10.21
+Hour: 21 - Total Comments: 85 - Avg Comments per Submission: 7.73
+Hour: 22 - Total Comments: 41 - Avg Comments per Submission: 5.86
+Hour: 23 - Total Comments: 90 - Avg Comments per Submission: 9.00
+
+Day: Saturday
+Hour: 0 - Total Comments: 25 - Avg Comments per Submission: 5.00
+Hour: 1 - Total Comments: 22 - Avg Comments per Submission: 7.33
+Hour: 2 - Total Comments: 10 - Avg Comments per Submission: 1.67
+Hour: 3 - Total Comments: 22 - Avg Comments per Submission: 3.67
+Hour: 4 - Total Comments: 12 - Avg Comments per Submission: 4.00
+Hour: 5 - Total Comments: 0 - Avg Comments per Submission: 0.00
+Hour: 6 - Total Comments: 12 - Avg Comments per Submission: 2.40
+Hour: 7 - Total Comments: 23 - Avg Comments per Submission: 7.67
+Hour: 8 - Total Comments: 31 - Avg Comments per Submission: 5.17
+Hour: 9 - Total Comments: 12 - Avg Comments per Submission: 4.00
+Hour: 10 - Total Comments: 93 - Avg Comments per Submission: 9.30
+Hour: 11 - Total Comments: 103 - Avg Comments per Submission: 12.88
+Hour: 12 - Total Comments: 85 - Avg Comments per Submission: 12.14
+Hour: 13 - Total Comments: 35 - Avg Comments per Submission: 3.89
+Hour: 14 - Total Comments: 114 - Avg Comments per Submission: 7.60
+Hour: 15 - Total Comments: 60 - Avg Comments per Submission: 8.57
+Hour: 16 - Total Comments: 64 - Avg Comments per Submission: 10.67
+Hour: 17 - Total Comments: 64 - Avg Comments per Submission: 9.14
+Hour: 18 - Total Comments: 45 - Avg Comments per Submission: 5.00
+Hour: 19 - Total Comments: 74 - Avg Comments per Submission: 10.57
+Hour: 20 - Total Comments: 59 - Avg Comments per Submission: 11.80
+Hour: 21 - Total Comments: 46 - Avg Comments per Submission: 9.20
+Hour: 22 - Total Comments: 55 - Avg Comments per Submission: 6.11
+Hour: 23 - Total Comments: 66 - Avg Comments per Submission: 8.25
+
+Day: Sunday
+Hour: 0 - Total Comments: 65 - Avg Comments per Submission: 9.29
+Hour: 1 - Total Comments: 35 - Avg Comments per Submission: 5.00
+Hour: 2 - Total Comments: 43 - Avg Comments per Submission: 21.50
+Hour: 3 - Total Comments: 73 - Avg Comments per Submission: 9.12
+Hour: 4 - Total Comments: 159 - Avg Comments per Submission: 17.67
+Hour: 5 - Total Comments: 29 - Avg Comments per Submission: 9.67
+Hour: 6 - Total Comments: 30 - Avg Comments per Submission: 5.00
+Hour: 7 - Total Comments: 39 - Avg Comments per Submission: 3.90
+Hour: 8 - Total Comments: 6 - Avg Comments per Submission: 2.00
+Hour: 9 - Total Comments: 53 - Avg Comments per Submission: 6.62
+Hour: 10 - Total Comments: 48 - Avg Comments per Submission: 6.86
+Hour: 11 - Total Comments: 21 - Avg Comments per Submission: 2.10
+Hour: 12 - Total Comments: 423 - Avg Comments per Submission: 23.50
+Hour: 13 - Total Comments: 33 - Avg Comments per Submission: 3.67
+Hour: 14 - Total Comments: 78 - Avg Comments per Submission: 6.00
+Hour: 15 - Total Comments: 214 - Avg Comments per Submission: 11.26
+Hour: 16 - Total Comments: 29 - Avg Comments per Submission: 2.23
+Hour: 17 - Total Comments: 83 - Avg Comments per Submission: 5.93
+Hour: 18 - Total Comments: 71 - Avg Comments per Submission: 7.89
+Hour: 19 - Total Comments: 101 - Avg Comments per Submission: 12.62
+Hour: 20 - Total Comments: 43 - Avg Comments per Submission: 2.53
+Hour: 21 - Total Comments: 13 - Avg Comments per Submission: 1.62
+Hour: 22 - Total Comments: 61 - Avg Comments per Submission: 6.10
+Hour: 23 - Total Comments: 93 - Avg Comments per Submission: 6.64
+
+Total Average Comments per Submission: 7.71
